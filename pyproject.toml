@@ -1,0 +1,6 @@
+[project]
+name = "gpunative"
+version = "0.0.1"
+
+[build-system]
+requires = []
