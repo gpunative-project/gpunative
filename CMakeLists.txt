@@ -72,3 +72,6 @@ target_link_libraries(gpunative INTERFACE
     MLIRFuncDialect
     MLIRArithDialect
 )
+
+enable_testing()
+add_subdirectory(test)
